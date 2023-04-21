@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">myMovie</string>
+    <string name="app_name">StarMovie</string>
     <string name="title_activity_login">activity_Login</string>
 
 
